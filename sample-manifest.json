@@ -1,12 +1,12 @@
 {
-  "export_job_id": "96cba9cd-830f-4503-b352-57b422d6a068",
+  "export_job_id": "3e2f82d4-aed6-41b3-890f-4f6cfd935c45",
   "id_short": 802504,
-  "published_at": "2026-04-13T07:58:14Z",
+  "published_at": "2026-04-18T07:04:59Z",
   "repo_name": "all-restaurants-in-spokane-valley-washington-us-sample-802504",
   "sample_asset_name": "beamstation_802504_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/802504/beamstation_802504_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_records": 23,
-  "sample_sha256": "e32da86dd90897e8dbdf5d7535c8afb52311c4fafc56d4d4384700b50555f8a4",
-  "sample_size_bytes": 98439,
-  "total_records": 239
+  "sample_records": 22,
+  "sample_sha256": "9ff17fd0811352c2d0d6ad788f035cb4aa6a7a13e1bc97edd5e4ae53df87653d",
+  "sample_size_bytes": 97528,
+  "total_records": 221
 }
