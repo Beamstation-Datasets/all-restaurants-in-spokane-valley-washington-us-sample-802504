@@ -1,6 +1,6 @@
 # All Restaurants in Spokane Valley, Washington, US
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 22 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `802504` |
 | Location | Spokane Valley |
 | Category | Restaurants |
-| Full dataset size | 192 records |
-| Free sample size | 19 records (9.9%) |
-| Last export | 2026-04-21T11:58:57.190957+00:00 |
+| Full dataset size | 228 records |
+| Free sample size | 22 records (9.65%) |
+| Last export | 2026-04-28T12:40:15.055852+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-spokane-valley-washington-us-sample-802504/releases/download/sample-latest/beamstation_802504_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
